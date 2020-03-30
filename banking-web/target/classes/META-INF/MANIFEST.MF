@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bikashghimire
+Build-Jdk: 13.0.1
+Implementation-Title: banking-web
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.rab3Tech
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/online-banking-project/banking-web
+Created-By: Maven Integration for Eclipse
+
